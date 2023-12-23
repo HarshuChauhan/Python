@@ -1,0 +1,5 @@
+l=[1,1,1,1,1,1,1,33]
+a=sum(l)
+b=a/(len(l))
+print(a,"is the sum of list")
+print(b,"is the Average of list")
