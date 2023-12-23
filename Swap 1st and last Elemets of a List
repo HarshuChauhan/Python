@@ -1,0 +1,7 @@
+l=[0,1,34,87,90,65,78]
+temp=l[-1]
+l[-1]=l[0]
+l[0]=temp
+print(l)
+a=len(l)
+print(a)
