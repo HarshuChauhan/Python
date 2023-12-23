@@ -1,0 +1,7 @@
+l=[90,87,34,87,90,65,65]
+for a in range(0,len(l)):
+    for b in range(a+1,len(l)):
+        if(l[a]==l[b]):
+            print(l[a],"is the duplicate number in list")
+
+    
